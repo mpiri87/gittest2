@@ -1,5 +1,8 @@
 log.txt
 /dir2
+<<<<<<< HEAD
 test.txt
 log1.txt
+=======
+>>>>>>> login
 .DS_Store
